@@ -1,0 +1,27 @@
+
+.caja{
+	width: 200px;
+	height: 200px;
+	display: block;
+	position: static;
+	border: 1px solid green;
+	margin: 0px;
+	padding: 0px;
+
+
+}
+.amarilla{
+	
+	background-color: red;
+	}
+
+.azul{
+
+	background-color: blue;
+	
+}
+.rosado{
+	
+	background-color: green;
+	
+}
